@@ -1,2 +1,2 @@
 var num =50
-var truth="Hello Flater Earth"
+var truth="Hello Casts"
